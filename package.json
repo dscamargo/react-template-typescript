@@ -1,0 +1,34 @@
+{
+  "name": "cra-template-dscamargo-typescript",
+  "version": "0.0.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescriptreact",
+    "typescript",
+    "contextapi",
+    "axios",
+    "styledcomponents",
+    "prettier",
+    "eslint"
+  ],
+  "description": "The base template for Create React App.",
+  "main": "template.json",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dscamargo/react-template-base"
+  },
+  "bugs": {
+    "url": "https://github.com/dscamargo/react-template-base/issues"
+  },
+  "homepage": "https://github.com/dscamargo/react-template-base",
+  "engines": {
+    "node": ">=8"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

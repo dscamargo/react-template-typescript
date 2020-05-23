@@ -13,17 +13,17 @@
     "prettier",
     "eslint"
   ],
-  "description": "The base template for Create React App.",
+  "description": "Typescript ReactJS Template",
   "main": "template.json",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dscamargo/react-template-base"
+    "url": "https://github.com/dscamargo/react-template-typescript"
   },
   "bugs": {
-    "url": "https://github.com/dscamargo/react-template-base/issues"
+    "url": "https://github.com/dscamargo/react-template-typescript/issues"
   },
-  "homepage": "https://github.com/dscamargo/react-template-base",
+  "homepage": "https://github.com/dscamargo/react-template-typescript",
   "engines": {
     "node": ">=8"
   },

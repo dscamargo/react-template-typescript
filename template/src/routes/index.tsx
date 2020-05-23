@@ -10,7 +10,7 @@ const Routes: React.FC = () => (
     <Route
       exact
       path="/nonauth"
-      component={() => <h1>Rota não autenticada</h1>}
+      component={() => <h1>Not authenticated Route</h1>}
     />
   </Switch>
 );
